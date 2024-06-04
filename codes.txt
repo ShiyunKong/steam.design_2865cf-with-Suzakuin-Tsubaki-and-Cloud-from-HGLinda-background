@@ -1,0 +1,24 @@
+创意工坊展柜
+$J('#ConsumerAppID').val(480),$J('[name=file_type]').val(0),$J('[name=visibility]').val(0);
+
+
+无名代码
+v_trim=_=>{return _},$J('#title').val(' \n'+Array.from(Array(126),_=>'\t').join(''));
+
+
+
+艺术作品代码
+$J('#image_width').val(1000).attr('id',''),$J('#image_height').val(1).attr('id','');
+
+
+
+指南代码
+$J('[name=consumer_app_id]').val(480);$J('[name=file_type]').val(9);$J('[name=visibility]').val(0); 
+
+
+
+屏幕截图代码
+$J('#image_width').val(1000).attr('id',''),$J('#image_height').val(1).attr('id',''),$J('[name=file_type]').val(5);
+
+artwork: 
+1:1 和 186.56:944
